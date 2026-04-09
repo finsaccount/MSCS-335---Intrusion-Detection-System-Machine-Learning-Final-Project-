@@ -1,0 +1,5 @@
+*.csv
+*.xz
+dataSamples/*
+dataSamples/attack_data/*.csv
+dataSamples/benign_data/*.csv
